@@ -9,3 +9,5 @@ Steps:-
 
 Run the script and it will give out a csv file.
 ENJOY!!!
+
+*Discord.py is needed for this which can be installed by the command `pip install discord.py` in terminal if you already have python installed on you machine.
